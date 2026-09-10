@@ -4,9 +4,6 @@
 
 A full-cycle data science project that analyzes 500K+ U.S. domestic flight records to uncover delay drivers and predict both **flight delay likelihood** and **delay duration**, using `RandomForestClassifier` and `XGBoostRegressor`. Built to demonstrate how predictive modeling can translate into measurable operational and financial outcomes for the airline industry.
 
-📄 **Full Report:** [Data-Driven Insights and Flight Predictions Using Airline Data (PDF)](./Data-Driven-Insights-and-Flight-Predictions-Using-Airline-Data.pdf)
-📓 **Notebook:** [CB015565_COIS71203-0210-Business_Analytics-2024.ipynb](./CB015565_COIS71203-0210-Business_Analytics-2024.ipynb)
-
 ---
 
 ## 📌 Business Problem
